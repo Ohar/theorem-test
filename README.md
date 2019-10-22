@@ -1,5 +1,8 @@
 # “Flatten” is a simple array-flatter function
 
+## Gist
+[Source code on Gist.GitHub.com](https://gist.github.com/Ohar/1cacbbc024a48da31f543657c8e1e92b#file-flatten-js)
+
 ## Example usage
 
 ```js
